@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hello, I'm Jah-Mali Brathwaite!
 
-<!--
-**JahmaliB/JahmaliB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎮 Game enthusiast and aspiring game developer  
+- 💻 Computer Science student @ Morehouse College  
+- 🌍 Currently honing my skills in game development and digital design.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** C++, C#, SQL, Python 
+- **Tools:** Google Cloud VM, Git, Digital Art, Visual Studio Code, Unity  
+- **Interests:** Game Development, Web Development and Digital Design. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[Pac-Man Shadow Snackers Game](#)**:  
+  A reimagined Pac-Man experience with unique mechanics and shadow-based gameplay.  
+
+- **[Extended Tic Tac Toe](#)**:  
+  A creative twist on the classic game with extended rules and customizations.  
+
+- **[Wordle Clone](#)**:  
+  A personalized version of the popular word-guessing game with added features. 
+
+## 📊 Stats
+![Jah-Mali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+
+## 📫 Contact
+- **Email:** [Jahmalibrathwaitebiz@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/jah-mali-brathwaite/]  
+
