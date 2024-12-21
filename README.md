@@ -20,7 +20,7 @@
   A creative twist on the classic game with extended rules and customizations.  
 
 ## 📊 Stats
-![Jah-Mali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+![Jah-Mali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JahmaliB&show_icons=true)
 
 ## 📫 Contact
 - **Email:** [Jahmalibrathwaitebiz@gmail.com]  
